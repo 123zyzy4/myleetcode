@@ -37,24 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/codemanage/myleetcode/jianzhioffer/src/day23retry&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/codemanage/myleetcode/jianzhioffer/src/day26retry",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codemanage\myleetcode\jianzhioffer\src\day26retry" />
       <recent name="D:\codemanage\myleetcode\jianzhioffer\src\day23retry" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -63,8 +64,27 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="day25" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day28" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.Solution2.test">
+  <component name="RunManager" selected="JUnit.CodecTest.test">
+    <configuration name="CodecTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myleetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day28" />
+      <option name="MAIN_CLASS_NAME" value="day28.CodecTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myleetcode" />
       <extension name="coverage">
@@ -99,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CodecTest.test" />
         <item itemvalue="JUnit.Solution2.test" />
         <item itemvalue="JUnit.Solution1.test" />
       </list>
@@ -116,6 +137,8 @@
       <workItem from="1675828522748" duration="6076000" />
       <workItem from="1675905500696" duration="7094000" />
       <workItem from="1676077416694" duration="6557000" />
+      <workItem from="1676167898559" duration="6598000" />
+      <workItem from="1676251987866" duration="8321000" />
     </task>
     <servers />
   </component>
@@ -134,6 +157,11 @@
           <url>file://$PROJECT_DIR$/jianzhioffer/src/day24retry/Solution2.java</url>
           <line>50</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jianzhioffer/src/day28/CodecTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
