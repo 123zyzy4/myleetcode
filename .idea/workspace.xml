@@ -49,12 +49,14 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "D:/codemanage/myleetcode/jianzhioffer/src/day26retry",
+    "last_opened_file_path": "D:/codemanage/myleetcode/jianzhioffer/src/day31retry",
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\codemanage\myleetcode\jianzhioffer\src\day31retry" />
+      <recent name="D:\codemanage\myleetcode\jianzhioffer\src\day27retry" />
       <recent name="D:\codemanage\myleetcode\jianzhioffer\src\day26retry" />
       <recent name="D:\codemanage\myleetcode\jianzhioffer\src\day23retry" />
     </key>
@@ -65,10 +67,24 @@
       <recent name="day25" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day28retry" />
       <recent name="day28" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CodecTest.test">
+  <component name="RunManager" selected="Application.Solution1">
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30retry.Solution1" />
+      <module name="myleetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30retry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CodecTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myleetcode" />
       <extension name="coverage">
@@ -119,6 +135,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="JUnit.CodecTest.test" />
         <item itemvalue="JUnit.Solution2.test" />
         <item itemvalue="JUnit.Solution1.test" />
@@ -139,6 +156,13 @@
       <workItem from="1676077416694" duration="6557000" />
       <workItem from="1676167898559" duration="6598000" />
       <workItem from="1676251987866" duration="8321000" />
+      <workItem from="1676291645647" duration="593000" />
+      <workItem from="1676444699927" duration="6404000" />
+      <workItem from="1676510634778" duration="660000" />
+      <workItem from="1676514548666" duration="7287000" />
+      <workItem from="1676548280785" duration="594000" />
+      <workItem from="1676604465237" duration="7010000" />
+      <workItem from="1676697167774" duration="5104000" />
     </task>
     <servers />
   </component>
